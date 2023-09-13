@@ -2,7 +2,8 @@
 
 This is a simple parallax website built using HTML and CSS. This README file provides instructions on how to install and run this website locally on your computer.
 
-Installation
+INSTALATION-
+
 To run this website locally, you'll need a web browser and a text editor. If you don't have a text editor installed, you can use a basic one like Notepad on Windows or TextEdit on macOS. If you prefer a more feature-rich text editor, you can use Visual Studio Code, Sublime Text, or any other text editor of your choice.
 
 Here are the steps to install and run the parallax website:
@@ -25,7 +26,9 @@ Copy code
 cd path/to/parallax-website
 Open the Website Files: Use your text editor to open the index.html file. This file is the main entry point of the website.
 
-How to Run Locally
+HOW TO RUN LOCALLY-
+
+
 Once you have the website files open in your text editor, follow these steps to run the website locally:
 
 Open index.html in Your Web Browser: Simply double-click the index.html file in your text editor, and it should open in your default web browser. If not, you can right-click the file and select "Open with" to choose your browser.
