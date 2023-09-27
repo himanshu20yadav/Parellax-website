@@ -4,13 +4,13 @@ https://github.com/himanshu20yadav/Parellax-website/assets/121588019/b45f24eb-af
 
 This is a simple parallax website built using HTML and CSS. This README file provides instructions on how to install and run this website locally on your computer.
 
-#Instalation
+# Instalation
 
 To run this website locally, you'll need a web browser and a text editor. If you don't have a text editor installed, you can use a basic one like Notepad on Windows or TextEdit on macOS. If you prefer a more feature-rich text editor, you can use Visual Studio Code, Sublime Text, or any other text editor of your choice.
 
 Here are the steps to install and run the parallax website:
 
-#Clone or Download the Repository:
+# Clone or Download the Repository:
 First, you need to get the website files onto your computer. You can either clone this repository using Git or download the ZIP archive.
 
 To clone the repository using Git, open your terminal or command prompt and run:
@@ -29,7 +29,7 @@ Copy code
 cd path/to/parallax-website
 Open the Website Files: Use your text editor to open the index.html file. This file is the main entry point of the website.
 
-#HOW TO RUN LOCALLY
+# HOW TO RUN LOCALLY
 
 
 Once you have the website files open in your text editor, follow these steps to run the website locally:
@@ -38,7 +38,7 @@ Open index.html in Your Web Browser: Simply double-click the index.html file in 
 
 Interact with the Website: You should now see the parallax website in your web browser. You can scroll to experience the parallax effect and interact with any other elements on the page.
 
-#Customize the Website
+# Customize the Website
 
 Feel free to customize the website by modifying the HTML and CSS files. You can use any code editor or integrated development environment (IDE) to make changes. Here are some tips for customization:
 
