@@ -1,4 +1,6 @@
 # Parellax-website
+https://github.com/himanshu20yadav/Parellax-website/assets/121588019/b45f24eb-afbb-4ce8-af6c-73dee5be2b72
+
 
 This is a simple parallax website built using HTML and CSS. This README file provides instructions on how to install and run this website locally on your computer.
 
